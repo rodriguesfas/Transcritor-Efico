@@ -1,4 +1,4 @@
-# Transcritor-lfico
+# Transcritor-Éfico
 Transcrição do Português Brasileiro para o alfabeto Tengwar Annatar
 
 # Sobre
